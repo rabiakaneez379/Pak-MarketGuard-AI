@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 .venv/
 __pycache__/
@@ -5,3 +6,9 @@ __pycache__/
 .env
 .pytest_cache/
 .streamlit/secrets.toml
+=======
+.venv/
+__pycache__/
+*.pyc
+.env
+>>>>>>> 90ce77d2a7285b8835c1cf1759542eb73d65e32f
