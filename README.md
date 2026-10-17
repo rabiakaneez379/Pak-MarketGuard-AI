@@ -96,4 +96,4 @@ Pak-MarketGuard AI is intended to support informed shopping decisions. Its resul
 - **Event:** CSS AI Bootcamp 2026 Capstone
 - **Program:** BS Artificial Intelligence
 - **Institution:** University of Peshawar
-- **Author:** [Enter your full name]
+- **Author:** Kaneez Rabia
