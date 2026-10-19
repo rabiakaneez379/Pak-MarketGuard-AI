@@ -2,8 +2,14 @@
 import html
 from io import BytesIO
 
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
+
 import streamlit as st
 from gtts import gTTS
+
 
 from app.agent import run_analysis
 from app.report_generator import generate_pdf_report
